@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Downloads/Sound-Recording-5"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "cpp",
+			"iterator": "cpp",
+			"xmemory": "cpp",
+			"xutility": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
